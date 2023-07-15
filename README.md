@@ -2,7 +2,8 @@
 
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](https://user-images.githubusercontent.com/77756047/211304452-220fedf0-f91b-490f-8a65-a60ce860bc5c.png)
+![image](https://github.com/jotapecarvalho92/portifolio/assets/123603005/8e019f9a-8406-45c6-9d77-6ad47675a129)
+
 
 ## Ferramentas utilizadas:
 
